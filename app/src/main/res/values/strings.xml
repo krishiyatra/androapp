@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Gapped</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup">signup</string>
+    <string name="error_intro">"Please "</string>
+    <string name="error_blank_username">enter a username</string>
+    <string name="error_blank_password">enter a password</string>
+    <string name="error_mismatched_passwords">enter the same password twice</string>
+    <string name="error_join">", and "</string>
+    <string name="error_end">.</string>
+    <string name="progress_login">Logging you in&#8230;</string>
+    <string name="progress_signup">Signing you up&#8230;</string>
+    <string name="title_activity_dispacth">DispacthActivity</string>
+    <string name="title_activity_crop_monitor">crop_monitor</string>
+
+    <string name="title_section1">Crop Info</string>
+    <string name="title_section2">Add Crop</string>
+    <string name="title_section3">Crop History</string>
+    <string name="title_activity_crop">crop</string>
+    <string name="title_section4">Delete crops</string>
+</resources>
